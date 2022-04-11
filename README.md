@@ -39,5 +39,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"height="50"/>&nbsp;
 </div>
-
-## Tools
