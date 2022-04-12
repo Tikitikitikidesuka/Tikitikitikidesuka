@@ -47,7 +47,7 @@ Short description about myself
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi"height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" height="50"/>
+  <img src="https://github.com/Tikitikitikidesuka/Tikitikitikidesuka/blob/main/assets/logos/bash_logo.svg" title="Bash" height="50"/>
 </div>
 
 
