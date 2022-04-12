@@ -29,7 +29,7 @@
 - :man_technologist: Currently studying CS at the [Polytechnic University of Madrid](https://www.upm.es/)
 - :telescope: I love learning and tinkering with technology
 - :pencil2: Learning 3d art with Blender ([Portfolio](https://www.artstation.com/tikitikitikidesuka))
-
+- :mailbox: Reach me at deesneakygerbil@gmail.com
 
 ---
 
