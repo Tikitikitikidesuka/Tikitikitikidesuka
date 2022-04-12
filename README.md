@@ -37,6 +37,7 @@ Short description about myself
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="LaTeX" height="50">
 </div>
 
 <div id="tools" align="center">
