@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/Github-393838?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC4r_WrJ5SXjd10lFQdO3UyQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-f54949?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.artstation.com/tikitikitikidesuka">
+    <img src="https://img.shields.io/badge/ArtStation-14aaf1?style=for-the-badge&logo=artstation&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
@@ -23,7 +26,9 @@
 
 <h3><br>About me:</br></h3>
 
-Short description about myself
+- :man_technologist: Currently studying CS at the [Polytechnic University of Madrid](https://www.upm.es/)
+- :telescope: I love learning and tinkering with technology
+- :pencil2: Learning 3d art with Blender ([Portfolio](https://www.artstation.com/tikitikitikidesuka))
 
 
 ---
