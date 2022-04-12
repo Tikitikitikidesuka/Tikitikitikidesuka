@@ -29,6 +29,7 @@
 - :man_technologist: Currently studying CS at the [Polytechnic University of Madrid](https://www.upm.es/)
 - :telescope: I love learning and tinkering with technology
 - :pencil2: Learning 3d art with Blender ([Portfolio](https://www.artstation.com/tikitikitikidesuka))
+- :hammer_and_wrench: [AceptaElReto](https://www.aceptaelreto.com/user/profile.php?id=19424) and [HackerRank](https://www.hackerrank.com/CoolBeanN5)
 - :mailbox: Reach me at deesneakygerbil@gmail.com
 
 ---
