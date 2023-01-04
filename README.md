@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_rust.svg" title="Rust" height="50"/>&nbsp;
   <img src="https://github.com/Tikitikitikidesuka/Tikitikitikidesuka/blob/main/assets/logos/LaTeX_logo.svg" title="LaTeX" height="50">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" height="50">
 </div>
