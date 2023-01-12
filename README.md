@@ -56,10 +56,9 @@
   <img src="https://github.com/Tikitikitikidesuka/Tikitikitikidesuka/blob/main/assets/logos/bash_logo.svg" title="Bash" height="50"/>
 </div>
 
-
 ---
 
 
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tikitikitikidesuka&show_icons=true&theme=radical&bg_color=4,923469,7c3364,672d5c,4c3159&title_color=ff75a1&border_radius=5" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tikitikitikidesuka&show_icons=true&theme=radical&bg_color=4,923469,7c3364,672d5c,4c3159&title_color=ff75a1&border_radius=5" />
 </div>
